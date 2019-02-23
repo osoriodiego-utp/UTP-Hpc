@@ -1,0 +1,14 @@
+
+*.csv
+*.txt
+
+*.pdf
+*.pptx
+
+*.gif
+*.png
+*.jpg
+*.jpeg
+
+*.out
+*.exe
